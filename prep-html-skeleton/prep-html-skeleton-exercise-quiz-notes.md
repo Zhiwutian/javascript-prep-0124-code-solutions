@@ -5,6 +5,7 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What tags are necessary for a complete HTML Skeleton?
+Here is an example answer.
 
 - What type of content belongs within the `<head>` of an HTML document?
 
